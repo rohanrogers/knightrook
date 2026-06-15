@@ -33,3 +33,5 @@ Chess is a mental game. KnightRook includes an integrated taunt system, allowing
 <div align="center">
   <em>Checkmate in style.</em>
 </div>
+<img width="1470" height="956" alt="Character" src="https://github.com/user-attachments/assets/01cc03d8-c5c7-45d1-b251-69585b82f323" />
+<img width="1470" height="956" alt="lobby" src="https://github.com/user-attachments/assets/16f20564-0a01-4ee8-a83a-701d40cb9bc1" />
